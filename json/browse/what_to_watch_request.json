@@ -1,0 +1,134 @@
+{
+  "context": {
+    "client": {
+      "hl": "en",
+      "gl": "CA",
+      "remoteHost": "2607:fa49:502:f900:1006:4176:9550:3eae",
+      "deviceMake": "Apple",
+      "deviceModel": "",
+      "visitorData": "Cgt0SDV4MW0xZm9hdyj3osXMBjIKCgJDQRIEGgAgKw%3D%3D",
+      "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0,gzip(gfe)",
+      "clientName": "WEB",
+      "clientVersion": "2.20260213.01.00",
+      "osName": "Macintosh",
+      "osVersion": "10.15",
+      "originalUrl": "https://www.youtube.com/?bp=wgUCEAE%3D",
+      "screenPixelDensity": 2,
+      "platform": "DESKTOP",
+      "clientFormFactor": "UNKNOWN_FORM_FACTOR",
+      "configInfo": {
+        "appInstallData": "CPeixcwGENr3zhwQ2cTQHBC45M4cEIeszhwQ0r3QHBCsrNAcENDCgBMQscmAExDL0bEFELvZzhwQxujQHBDGxs8cEJS20BwQjOnPHBCd0LAFEJmNsQUQppqwBRCJ6K4FEIKPzxwQ3OrQHBDartAcEJT-sAUQwY_QHBDJ968FELa1gBMQw6rQHBDDkdAcELfq_hIQvYqwBRDI988cEPrc0BwQlIPQHBDgzbEFEPXVzhwQ3rzOHBD2q7AFEJX3zxwQt-CuBRCzkM8cEPHh0BwQm8LQHBDXrtAcEObgzxwQvbauBRCJsM4cEOLUrgUQvZmwBRCvhs8cEPG00BwQzN-uBRCNsNAcELTB0BwQzdGxBRCmttAcEIv3zxwQl93QHBCIh7AFENjX0BwQ-s7QHBCu1s8cELyk0BwQ_LLOHBC3hs8cEPHE0BwQ0-GvBRCo6NAcENbc0BwQq53PHBD21tAcEIHNzhwQtcSAExD2x4ATEP3e0BwQi-PQHBCjy4ATKmRDQU1TUlJWRy1acS1ETWVVRXBVQ25BN01CYl9CNWd2d3NSS0hUREtnckFRRHk3NEYtam5MdHdiN0pwQktvSW9HOWctRkZNaTRCZU1Xd0ZIMERfME1uZ3I0T1lJb3pDNGRCdz09MAA%3D",
+        "coldConfigData": "CPeixcwGEL22rgUQ4tSuBRC9irAFEJ3QsAUQz9KwBRDM9rAFEOP4sAUQr6fOHBD8ss4cEIbKzhwQ9dXOHBCvhs8cELOQzxwQq53PHBCSqs8cEJ_XzxwQ5efPHBDn588cEIzpzxwQ7_XPHBC2g9AcEIae0BwQyaLQHBDbpdAcEMOq0BwQ-qvQHBDOrNAcELW_0BwQp8XQHBD7y9AcEKvS0BwQ1tzQHBCX3dAcEP3e0BwQ2uHQHBDo4dAcEPHh0BwQ6-LQHBCg5tAcEMbo0BwQlunQHBDc6tAcGjJBSVdMQ1gxLTVGak5LbjVxbDZqU1JpZTQ5ZmZicG83YlpWbEJiZ3Q4N1B4WHVjdWhjZyIyQUlXTENYMS01RmpOS241cWw2alNSaWU0OWZmYnBvN2JaVmxCYmd0ODdQeFh1Y3VoY2cqnAFDQU1TY0EwcnVOMjNBcVFaN3luSE5wbVNtaEQ3Rm8wMl9pT2JHbW8wOWhpb0F0a1hzQTJ0RGM0Q0RKWUZET0lQLUFZVlI2YmV0Ui1SbkFYVnhnU1VuQVRQd2dDUHB3YjkxQVl5ejRBRjJhUUdBNm5wQk1ZSjh3T0k1QVhMU2dTU3JBYjRDdnQwX0lJR3AwOXZzUnl6QnBwNzZ4ST0%3D",
+        "coldHashData": "CPeixcwGEhM5Nzg4Mjc1NDI4MTIwNjk5MzA4GPeixcwGMjJBSVdMQ1gxLTVGak5LbjVxbDZqU1JpZTQ5ZmZicG83YlpWbEJiZ3Q4N1B4WHVjdWhjZzoyQUlXTENYMS01RmpOS241cWw2alNSaWU0OWZmYnBvN2JaVmxCYmd0ODdQeFh1Y3VoY2dCnAFDQU1TY0EwcnVOMjNBcVFaN3luSE5wbVNtaEQ3Rm8wMl9pT2JHbW8wOWhpb0F0a1hzQTJ0RGM0Q0RKWUZET0lQLUFZVlI2YmV0Ui1SbkFYVnhnU1VuQVRQd2dDUHB3YjkxQVl5ejRBRjJhUUdBNm5wQk1ZSjh3T0k1QVhMU2dTU3JBYjRDdnQwX0lJR3AwOXZzUnl6QnBwNzZ4ST0%3D",
+        "hotHashData": "CPeixcwGEhM2ODI5NTAwNTMzMTgwMTE2OTI2GPeixcwGKJTk_BIopdD9Eiiekf4SKNq6_hIoyMr-Eii36v4SKNGu_xIoy5GAEyiQm4ATKLWbgBMogqSAEyjYsIATKLa1gBMosLeAEyjovYATKLfCgBMotcSAEyjwx4ATKPbHgBMolcmAEyixyYATKKPLgBMyMkFJV0xDWDEtNUZqTktuNXFsNmpTUmllNDlmZmJwbzdiWlZsQmJndDg3UHhYdWN1aGNnOjJBSVdMQ1gxLTVGak5LbjVxbDZqU1JpZTQ5ZmZicG83YlpWbEJiZ3Q4N1B4WHVjdWhjZ0IgQ0FNU0V3MEFvdGY2RmE3QkJoVVAzY19DRE1hbjdRcz0%3D"
+      },
+      "screenDensityFloat": 2,
+      "userInterfaceTheme": "USER_INTERFACE_THEME_DARK",
+      "timeZone": "America/Toronto",
+      "browserName": "Firefox",
+      "browserVersion": "147.0",
+      "acceptHeader": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+      "deviceExperimentId": "ChxOell3TmprMU1EZ3hPRGM1TXprNE1EZzVOZz09EPeixcwGGPeixcwG",
+      "rolloutToken": "CKCd04PzovvbkgEQidv7gtjakgMY7-qgg9jakgM%3D",
+      "screenWidthPoints": 1280,
+      "screenHeightPoints": 305,
+      "utcOffsetMinutes": -300,
+      "mainAppWebInfo": {
+        "graftUrl": "/?bp=wgUCEAE%3D",
+        "pwaInstallabilityStatus": "PWA_INSTALLABILITY_STATUS_UNKNOWN",
+        "webDisplayMode": "WEB_DISPLAY_MODE_BROWSER",
+        "isWebNativeShareAvailable": false
+      }
+    },
+    "user": {
+      "lockedSafetyMode": false
+    },
+    "request": {
+      "useSsl": true,
+      "consistencyTokenJars": [
+        {
+          "encryptedTokenJarContents": "AAsGu9kgWi0Q99daXupcDyJBu9cwVdGY1200Wmwq4qHpwZJdfgzjtQWHxYm7vQNsdtxSB35jGIol4YZZUN0hiCgGHP6JH3_tVP2DLg8vLq6kWEcoRXOePH8"
+        }
+      ],
+      "internalExperimentFlags": []
+    },
+    "clickTracking": {
+      "clickTrackingParams": "CAEQrtUHIhMI5fjaitrakgMVtwnWAB0yZRr6ygEEH2WvuQ=="
+    },
+    "adSignalsInfo": {
+      "params": [
+        {
+          "key": "dt",
+          "value": "1771131256541"
+        },
+        {
+          "key": "flash",
+          "value": "0"
+        },
+        {
+          "key": "frm",
+          "value": "0"
+        },
+        {
+          "key": "u_tz",
+          "value": "-300"
+        },
+        {
+          "key": "u_his",
+          "value": "3"
+        },
+        {
+          "key": "u_h",
+          "value": "982"
+        },
+        {
+          "key": "u_w",
+          "value": "1512"
+        },
+        {
+          "key": "u_ah",
+          "value": "876"
+        },
+        {
+          "key": "u_aw",
+          "value": "1512"
+        },
+        {
+          "key": "u_cd",
+          "value": "30"
+        },
+        {
+          "key": "bc",
+          "value": "31"
+        },
+        {
+          "key": "bih",
+          "value": "305"
+        },
+        {
+          "key": "biw",
+          "value": "1280"
+        },
+        {
+          "key": "brdim",
+          "value": "2,33,2,33,1512,33,1280,856,1280,305"
+        },
+        {
+          "key": "vis",
+          "value": "1"
+        },
+        {
+          "key": "wgl",
+          "value": "true"
+        },
+        {
+          "key": "ca_type",
+          "value": "image"
+        }
+      ]
+    }
+  },
+  "browseId": "FEwhat_to_watch",
+  "params": "wgUCEAE%3D",
+  "inlineSettingStatus": "INLINE_SETTING_STATUS_ON"
+}

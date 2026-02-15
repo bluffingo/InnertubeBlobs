@@ -1,0 +1,1 @@
+just wanna say that the share panel is dynamic. the app sends a list of currently installed messaging/social media applications. idk why they didnt make this clientside?
