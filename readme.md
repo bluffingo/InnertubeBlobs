@@ -1,4 +1,4 @@
-# InnerTube Protobuf Blobs Archive
+# InnerTube Blobs Archive
 
 This is a collection of InnerTube requests/responses. 
 

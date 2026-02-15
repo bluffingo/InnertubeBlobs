@@ -1,0 +1,364 @@
+{
+  "responseContext": {
+    "serviceTrackingParams": [
+      {
+        "service": "CSI",
+        "params": [
+          {
+            "key": "c",
+            "value": "WEB"
+          },
+          {
+            "key": "cver",
+            "value": "2.20260213.01.00"
+          },
+          {
+            "key": "yt_li",
+            "value": "0"
+          },
+          {
+            "key": "GetSharePanel_rid",
+            "value": "0x7409aac6c116d479"
+          }
+        ]
+      },
+      {
+        "service": "GFEEDBACK",
+        "params": [
+          {
+            "key": "logged_in",
+            "value": "0"
+          },
+          {
+            "key": "visitor_data",
+            "value": "Cgt0SDV4MW0xZm9hdyiDysXMBjIKCgJDQRIEGgAgKw%3D%3D"
+          }
+        ]
+      },
+      {
+        "service": "GUIDED_HELP",
+        "params": [
+          {
+            "key": "logged_in",
+            "value": "0"
+          }
+        ]
+      },
+      {
+        "service": "ECATCHER",
+        "params": [
+          {
+            "key": "client.version",
+            "value": "2.20260213"
+          },
+          {
+            "key": "client.name",
+            "value": "WEB"
+          }
+        ]
+      }
+    ],
+    "maxAgeSeconds": 3600,
+    "mainAppWebResponseContext": {
+      "loggedOut": true,
+      "trackingParam": "kx_fmPxhoPZR6tcA7gHRzpVauvLT3a84vnFVaz6_g_WcHZDas00Q0NKBwOcCE59TDtslLKPQ-SS"
+    },
+    "webResponseContextExtensionData": {
+      "webResponseContextPreloadData": {
+        "preloadMessageNames": [
+          "unifiedSharePanelRenderer",
+          "sharePanelHeaderRenderer",
+          "sharePanelTitleV15Renderer",
+          "thirdPartyNetworkSection",
+          "thirdPartyShareTargetSectionRenderer",
+          "shareTargetRenderer",
+          "copyLinkRenderer",
+          "buttonRenderer",
+          "notificationActionRenderer",
+          "firstPartyNetworkSectionViewModel"
+        ]
+      },
+      "hasDecorated": true
+    }
+  },
+  "trackingParams": "CAAQq8oBIhMI1J-aou3akgMV_gjWAB2PmCOR",
+  "actions": [
+    {
+      "clickTrackingParams": "CAAQq8oBIhMI1J-aou3akgMV_gjWAB2PmCORygEEH2WvuQ==",
+      "openPopupAction": {
+        "popup": {
+          "unifiedSharePanelRenderer": {
+            "contents": [
+              {
+                "thirdPartyNetworkSection": {
+                  "trackingParams": "CAUQk2IYACITCNSfmqLt2pIDFf4I1gAdj5gjkQ==",
+                  "shareTargetContainer": {
+                    "thirdPartyShareTargetSectionRenderer": {
+                      "shareTargets": [
+                        {
+                          "shareTargetRenderer": {
+                            "targetId": 49,
+                            "title": {
+                              "simpleText": "WhatsApp"
+                            },
+                            "navigationEndpoint": {
+                              "clickTrackingParams": "CBAQqkwYACITCNSfmqLt2pIDFf4I1gAdj5gjkTIFc2hhcmVIi8v9o7aGsaXdAWoIV0hBVFNBUFC6AWMKEQoLM1VyRU0yUl9aWXNSAggCEhBLaUZEMW1HdV9NRkZScmt4GANKOmh0dHBzOi8veW91dHViZS5jb20vc2hvcnRzLzNVckVNMlJfWllzP3NpPUtpRkQxbUd1X01GRlJya3jKAQQfZa-5",
+                              "commandMetadata": {
+                                "webCommandMetadata": {
+                                  "url": "https://wa.me/?text=https%3A//youtube.com/shorts/3UrEM2R_ZYs%3Fsi%3DKiFD1mGu_MFFRrkx",
+                                  "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                                  "rootVe": 83769
+                                }
+                              },
+                              "urlEndpoint": {
+                                "url": "https://wa.me/?text=https%3A//youtube.com/shorts/3UrEM2R_ZYs%3Fsi%3DKiFD1mGu_MFFRrkx",
+                                "target": "TARGET_NEW_WINDOW"
+                              }
+                            },
+                            "trackingParams": "CBAQqkwYACITCNSfmqLt2pIDFf4I1gAdj5gjkTIFc2hhcmVIi8v9o7aGsaXdAWoIV0hBVFNBUFB4AboBYwoRCgszVXJFTTJSX1pZc1ICCAISEEtpRkQxbUd1X01GRlJya3gYA0o6aHR0cHM6Ly95b3V0dWJlLmNvbS9zaG9ydHMvM1VyRU0yUl9aWXM_c2k9S2lGRDFtR3VfTUZGUnJreA==",
+                            "serviceName": "WHATSAPP"
+                          }
+                        },
+                        {
+                          "shareTargetRenderer": {
+                            "targetId": 10,
+                            "title": {
+                              "simpleText": "Facebook"
+                            },
+                            "navigationEndpoint": {
+                              "clickTrackingParams": "CA8QqkwYASITCNSfmqLt2pIDFf4I1gAdj5gjkTIFc2hhcmVIi8v9o7aGsaXdAWoIRkFDRUJPT0u6AWMKEQoLM1VyRU0yUl9aWXNSAggCEhBLaUZEMW1HdV9NRkZScmt4GANKOmh0dHBzOi8veW91dHViZS5jb20vc2hvcnRzLzNVckVNMlJfWllzP3NpPUtpRkQxbUd1X01GRlJya3jKAQQfZa-5",
+                              "commandMetadata": {
+                                "webCommandMetadata": {
+                                  "url": "http://www.facebook.com/dialog/share?app_id=87741124305&href=https%3A//youtube.com/shorts/3UrEM2R_ZYs%3Fsi%3DKiFD1mGu_MFFRrkx&display=popup",
+                                  "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                                  "rootVe": 83769
+                                }
+                              },
+                              "urlEndpoint": {
+                                "url": "http://www.facebook.com/dialog/share?app_id=87741124305&href=https%3A//youtube.com/shorts/3UrEM2R_ZYs%3Fsi%3DKiFD1mGu_MFFRrkx&display=popup",
+                                "target": "TARGET_NEW_WINDOW"
+                              }
+                            },
+                            "trackingParams": "CA8QqkwYASITCNSfmqLt2pIDFf4I1gAdj5gjkTIFc2hhcmVIi8v9o7aGsaXdAWoIRkFDRUJPT0t4AboBYwoRCgszVXJFTTJSX1pZc1ICCAISEEtpRkQxbUd1X01GRlJya3gYA0o6aHR0cHM6Ly95b3V0dWJlLmNvbS9zaG9ydHMvM1VyRU0yUl9aWXM_c2k9S2lGRDFtR3VfTUZGUnJreA==",
+                            "serviceName": "FACEBOOK"
+                          }
+                        },
+                        {
+                          "shareTargetRenderer": {
+                            "targetId": 31,
+                            "title": {
+                              "simpleText": "X"
+                            },
+                            "navigationEndpoint": {
+                              "clickTrackingParams": "CA4QqkwYAiITCNSfmqLt2pIDFf4I1gAdj5gjkTIFc2hhcmVIi8v9o7aGsaXdAWoHVFdJVFRFUroBYwoRCgszVXJFTTJSX1pZc1ICCAISEEtpRkQxbUd1X01GRlJya3gYA0o6aHR0cHM6Ly95b3V0dWJlLmNvbS9zaG9ydHMvM1VyRU0yUl9aWXM_c2k9S2lGRDFtR3VfTUZGUnJreMoBBB9lr7k=",
+                              "commandMetadata": {
+                                "webCommandMetadata": {
+                                  "url": "https://twitter.com/intent/tweet?url=https%3A//youtube.com/shorts/3UrEM2R_ZYs%3Fsi%3DKiFD1mGu_MFFRrkx&text=How%20to%20Get%20Camila%20Cabello%27s%20%2425k%20Acqua%20Purse&via=YouTube&related=YouTube,YouTubeTrends,YTCreators",
+                                  "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                                  "rootVe": 83769
+                                }
+                              },
+                              "urlEndpoint": {
+                                "url": "https://twitter.com/intent/tweet?url=https%3A//youtube.com/shorts/3UrEM2R_ZYs%3Fsi%3DKiFD1mGu_MFFRrkx&text=How%20to%20Get%20Camila%20Cabello%27s%20%2425k%20Acqua%20Purse&via=YouTube&related=YouTube,YouTubeTrends,YTCreators",
+                                "target": "TARGET_NEW_WINDOW"
+                              }
+                            },
+                            "trackingParams": "CA4QqkwYAiITCNSfmqLt2pIDFf4I1gAdj5gjkTIFc2hhcmVIi8v9o7aGsaXdAWoHVFdJVFRFUngBugFjChEKCzNVckVNMlJfWllzUgIIAhIQS2lGRDFtR3VfTUZGUnJreBgDSjpodHRwczovL3lvdXR1YmUuY29tL3Nob3J0cy8zVXJFTTJSX1pZcz9zaT1LaUZEMW1HdV9NRkZScmt4",
+                            "serviceName": "TWITTER"
+                          }
+                        },
+                        {
+                          "shareTargetRenderer": {
+                            "targetId": 46,
+                            "title": {
+                              "simpleText": "Email"
+                            },
+                            "navigationEndpoint": {
+                              "clickTrackingParams": "CA0QqkwYAyITCNSfmqLt2pIDFf4I1gAdj5gjkTIFc2hhcmVIi8v9o7aGsaXdAWoETUFJTLoBYwoRCgszVXJFTTJSX1pZc1ICCAISEEtpRkQxbUd1X01GRlJya3gYA0o6aHR0cHM6Ly95b3V0dWJlLmNvbS9zaG9ydHMvM1VyRU0yUl9aWXM_c2k9S2lGRDFtR3VfTUZGUnJreMoBBB9lr7k=",
+                              "commandMetadata": {
+                                "webCommandMetadata": {
+                                  "url": "mailto:?body=https%3A//youtube.com/shorts/3UrEM2R_ZYs%3Fsi%3DKiFD1mGu_MFFRrkx",
+                                  "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                                  "rootVe": 83769
+                                }
+                              },
+                              "urlEndpoint": {
+                                "url": "mailto:?body=https%3A//youtube.com/shorts/3UrEM2R_ZYs%3Fsi%3DKiFD1mGu_MFFRrkx",
+                                "target": "TARGET_NEW_WINDOW"
+                              }
+                            },
+                            "trackingParams": "CA0QqkwYAyITCNSfmqLt2pIDFf4I1gAdj5gjkTIFc2hhcmVIi8v9o7aGsaXdAWoETUFJTHgBugFjChEKCzNVckVNMlJfWllzUgIIAhIQS2lGRDFtR3VfTUZGUnJreBgDSjpodHRwczovL3lvdXR1YmUuY29tL3Nob3J0cy8zVXJFTTJSX1pZcz9zaT1LaUZEMW1HdV9NRkZScmt4",
+                            "serviceName": "MAIL"
+                          }
+                        },
+                        {
+                          "shareTargetRenderer": {
+                            "targetId": 4,
+                            "title": {
+                              "simpleText": "Reddit"
+                            },
+                            "navigationEndpoint": {
+                              "clickTrackingParams": "CAwQqkwYBCITCNSfmqLt2pIDFf4I1gAdj5gjkTIFc2hhcmVIi8v9o7aGsaXdAWoGUkVERElUugFjChEKCzNVckVNMlJfWllzUgIIAhIQS2lGRDFtR3VfTUZGUnJreBgDSjpodHRwczovL3lvdXR1YmUuY29tL3Nob3J0cy8zVXJFTTJSX1pZcz9zaT1LaUZEMW1HdV9NRkZScmt4ygEEH2WvuQ==",
+                              "commandMetadata": {
+                                "webCommandMetadata": {
+                                  "url": "http://reddit.com/submit?url=https%3A//youtube.com/shorts/3UrEM2R_ZYs%3Fsi%3DKiFD1mGu_MFFRrkx&title=How%20to%20Get%20Camila%20Cabello%27s%20%2425k%20Acqua%20Purse",
+                                  "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                                  "rootVe": 83769
+                                }
+                              },
+                              "urlEndpoint": {
+                                "url": "http://reddit.com/submit?url=https%3A//youtube.com/shorts/3UrEM2R_ZYs%3Fsi%3DKiFD1mGu_MFFRrkx&title=How%20to%20Get%20Camila%20Cabello%27s%20%2425k%20Acqua%20Purse",
+                                "target": "TARGET_NEW_WINDOW"
+                              }
+                            },
+                            "trackingParams": "CAwQqkwYBCITCNSfmqLt2pIDFf4I1gAdj5gjkTIFc2hhcmVIi8v9o7aGsaXdAWoGUkVERElUeAG6AWMKEQoLM1VyRU0yUl9aWXNSAggCEhBLaUZEMW1HdV9NRkZScmt4GANKOmh0dHBzOi8veW91dHViZS5jb20vc2hvcnRzLzNVckVNMlJfWllzP3NpPUtpRkQxbUd1X01GRlJya3g=",
+                            "serviceName": "REDDIT"
+                          }
+                        },
+                        {
+                          "shareTargetRenderer": {
+                            "targetId": 45,
+                            "title": {
+                              "simpleText": "Pinterest"
+                            },
+                            "navigationEndpoint": {
+                              "clickTrackingParams": "CAsQqkwYBSITCNSfmqLt2pIDFf4I1gAdj5gjkTIFc2hhcmVIi8v9o7aGsaXdAWoJUElOVEVSRVNUugFjChEKCzNVckVNMlJfWllzUgIIAhIQS2lGRDFtR3VfTUZGUnJreBgDSjpodHRwczovL3lvdXR1YmUuY29tL3Nob3J0cy8zVXJFTTJSX1pZcz9zaT1LaUZEMW1HdV9NRkZScmt4ygEEH2WvuQ==",
+                              "commandMetadata": {
+                                "webCommandMetadata": {
+                                  "url": "http://pinterest.com/pin/create/button/?url=https%3A//youtube.com/shorts/3UrEM2R_ZYs%3Fsi%3DKiFD1mGu_MFFRrkx&description=How%20to%20Get%20Camila%20Cabello%27s%20%2425k%20Acqua%20Purse&is_video=true&media=",
+                                  "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                                  "rootVe": 83769
+                                }
+                              },
+                              "urlEndpoint": {
+                                "url": "http://pinterest.com/pin/create/button/?url=https%3A//youtube.com/shorts/3UrEM2R_ZYs%3Fsi%3DKiFD1mGu_MFFRrkx&description=How%20to%20Get%20Camila%20Cabello%27s%20%2425k%20Acqua%20Purse&is_video=true&media=",
+                                "target": "TARGET_NEW_WINDOW"
+                              }
+                            },
+                            "trackingParams": "CAsQqkwYBSITCNSfmqLt2pIDFf4I1gAdj5gjkTIFc2hhcmVIi8v9o7aGsaXdAWoJUElOVEVSRVNUeAG6AWMKEQoLM1VyRU0yUl9aWXNSAggCEhBLaUZEMW1HdV9NRkZScmt4GANKOmh0dHBzOi8veW91dHViZS5jb20vc2hvcnRzLzNVckVNMlJfWllzP3NpPUtpRkQxbUd1X01GRlJya3g=",
+                            "serviceName": "PINTEREST"
+                          }
+                        },
+                        {
+                          "shareTargetRenderer": {
+                            "targetId": 42,
+                            "title": {
+                              "simpleText": "LinkedIn"
+                            },
+                            "navigationEndpoint": {
+                              "clickTrackingParams": "CAoQqkwYBiITCNSfmqLt2pIDFf4I1gAdj5gjkTIFc2hhcmVIi8v9o7aGsaXdAWoITElOS0VESU66AWMKEQoLM1VyRU0yUl9aWXNSAggCEhBLaUZEMW1HdV9NRkZScmt4GANKOmh0dHBzOi8veW91dHViZS5jb20vc2hvcnRzLzNVckVNMlJfWllzP3NpPUtpRkQxbUd1X01GRlJya3jKAQQfZa-5",
+                              "commandMetadata": {
+                                "webCommandMetadata": {
+                                  "url": "http://www.linkedin.com/shareArticle?url=https%3A//youtube.com/shorts/3UrEM2R_ZYs%3Fsi%3DKiFD1mGu_MFFRrkx&title=How%20to%20Get%20Camila%20Cabello%27s%20%2425k%20Acqua%20Purse&summary=&source=Youtube",
+                                  "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                                  "rootVe": 83769
+                                }
+                              },
+                              "urlEndpoint": {
+                                "url": "http://www.linkedin.com/shareArticle?url=https%3A//youtube.com/shorts/3UrEM2R_ZYs%3Fsi%3DKiFD1mGu_MFFRrkx&title=How%20to%20Get%20Camila%20Cabello%27s%20%2425k%20Acqua%20Purse&summary=&source=Youtube",
+                                "target": "TARGET_NEW_WINDOW"
+                              }
+                            },
+                            "trackingParams": "CAoQqkwYBiITCNSfmqLt2pIDFf4I1gAdj5gjkTIFc2hhcmVIi8v9o7aGsaXdAWoITElOS0VESU54AboBYwoRCgszVXJFTTJSX1pZc1ICCAISEEtpRkQxbUd1X01GRlJya3gYA0o6aHR0cHM6Ly95b3V0dWJlLmNvbS9zaG9ydHMvM1VyRU0yUl9aWXM_c2k9S2lGRDFtR3VfTUZGUnJreA==",
+                            "serviceName": "LINKEDIN"
+                          }
+                        }
+                      ],
+                      "trackingParams": "CAkQhdkBIhMI1J-aou3akgMV_gjWAB2PmCOR",
+                      "accessibility": {
+                        "accessibilityData": {
+                          "label": "Select an application to share with"
+                        }
+                      }
+                    }
+                  },
+                  "copyLinkContainer": {
+                    "copyLinkRenderer": {
+                      "copyButton": {
+                        "buttonRenderer": {
+                          "style": "STYLE_TEXT",
+                          "size": "SIZE_DEFAULT",
+                          "isDisabled": false,
+                          "text": {
+                            "runs": [
+                              {
+                                "text": "Copy"
+                              }
+                            ]
+                          },
+                          "trackingParams": "CAcQ8FsiEwjUn5qi7dqSAxX-CNYAHY-YI5EyBXNoYXJlSIvL_aO2hrGl3QFqCkNPUFlfUEFTVEV4AboBYwoRCgszVXJFTTJSX1pZc1ICCAISEEtpRkQxbUd1X01GRlJya3gYA0o6aHR0cHM6Ly95b3V0dWJlLmNvbS9zaG9ydHMvM1VyRU0yUl9aWXM_c2k9S2lGRDFtR3VfTUZGUnJreA==",
+                          "command": {
+                            "clickTrackingParams": "CAcQ8FsiEwjUn5qi7dqSAxX-CNYAHY-YI5HKAQQfZa-5",
+                            "commandMetadata": {
+                              "webCommandMetadata": {
+                                "sendPost": true
+                              }
+                            },
+                            "signalServiceEndpoint": {
+                              "signal": "CLIENT_SIGNAL",
+                              "actions": [
+                                {
+                                  "clickTrackingParams": "CAcQ8FsiEwjUn5qi7dqSAxX-CNYAHY-YI5HKAQQfZa-5",
+                                  "signalAction": {
+                                    "signal": "COPY_SHARE_URL"
+                                  }
+                                },
+                                {
+                                  "clickTrackingParams": "CAcQ8FsiEwjUn5qi7dqSAxX-CNYAHY-YI5HKAQQfZa-5",
+                                  "openPopupAction": {
+                                    "popup": {
+                                      "notificationActionRenderer": {
+                                        "responseText": {
+                                          "runs": [
+                                            {
+                                              "text": "Link copied to clipboard"
+                                            }
+                                          ]
+                                        },
+                                        "trackingParams": "CAgQuWoiEwjUn5qi7dqSAxX-CNYAHY-YI5E="
+                                      }
+                                    },
+                                    "popupType": "TOAST"
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        }
+                      },
+                      "shortUrl": "https://youtube.com/shorts/3UrEM2R_ZYs?si=KiFD1mGu_MFFRrkx",
+                      "trackingParams": "CAYQ_M8CIhMI1J-aou3akgMV_gjWAB2PmCOR"
+                    }
+                  }
+                }
+              },
+              {
+                "firstPartyNetworkSectionViewModel": {}
+              }
+            ],
+            "header": {
+              "sharePanelHeaderRenderer": {
+                "title": {
+                  "sharePanelTitleV15Renderer": {
+                    "title": {
+                      "runs": [
+                        {
+                          "text": "Share"
+                        }
+                      ]
+                    },
+                    "trackingParams": "CAMQ1dcBIhMI1J-aou3akgMV_gjWAB2PmCOR"
+                  }
+                },
+                "trackingParams": "CAIQj2IiEwjUn5qi7dqSAxX-CNYAHY-YI5E="
+              }
+            },
+            "trackingParams": "CAEQjmIiEwjUn5qi7dqSAxX-CNYAHY-YI5E=",
+            "sharePanelVersion": 15
+          }
+        },
+        "popupType": "DIALOG"
+      }
+    }
+  ]
+}
